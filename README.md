@@ -8,8 +8,6 @@ A curated collection of **custom Vencord plugins** not yet in the official repos
 
 </div>
 
----
-
 <br>
 
 ## 🔌 Plugins
@@ -20,13 +18,11 @@ A curated collection of **custom Vencord plugins** not yet in the official repos
 
 <br>
 
----
-
 ## 🛠 Installation
 
 > [!TIP] 
 > * If you need to install Vencord, follow the [Vencord installation guide](https://docs.vencord.dev/installing/custom-plugins/)
-> * If you don't know how to install userplugins, follow [this video by Syncxv](https://www.youtube.com/watch?v=8wexjSo8fNw) 
+> * If you don't know how to install userplugins, follow this [video by Syncxv](https://www.youtube.com/watch?v=8wexjSo8fNw) 
 
 To install, clone the repository inside your Vencord src/userplugins folder (create the userplugins folder if it doesn't exist)
 
@@ -38,7 +34,7 @@ pnpm build
 
 ## 🔄 Update
 
-To update, just pull the latest changes inside the repository folder and sync the changes
+To update, pull the latest changes inside the repository folder and sync the changes
 
 ```bash
 cd Documents/Vencord/src/userplugins/vc-pluginName
