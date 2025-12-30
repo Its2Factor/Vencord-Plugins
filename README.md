@@ -14,10 +14,9 @@ These are my **custom Vencord plugins** that haven’t landed in the official Ve
 
 <br><br><br>
 
-<div align="center">
+<div>
 
 🔊 **[VoiceChannelLogger](voiceChannelLogger/)**  
-A lightweight yet powerful Vencord plugin that tracks  
-**voice channel joins and leaves** in real time.
+Tracks and logs voice channel activity
 
 </div>
