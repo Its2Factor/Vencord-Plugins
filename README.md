@@ -4,15 +4,13 @@
 
 </div>
 
-<br><br>
-
 <div align="center">
 
 These are my **custom Vencord plugins** that haven’t landed in the official Vencord repository yet.
 
 </div>
 
-<br><br><br>
+<br>
 
 <div>
 
@@ -21,7 +19,7 @@ Tracks and logs voice channel activity
 
 </div>
 
-<br><br><br>
+<br>
 
 # Install
 
