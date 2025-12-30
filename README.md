@@ -15,8 +15,6 @@ A curated collection of **custom Vencord plugins** not yet in the official repos
 🔊 [VoiceChannelLogger](https://github.com/Its2Factor/vc-voiceChannelLogger) (```https://github.com/Its2Factor/vc-voiceChannelLogger.git```)
 <br>
 Voice channel logger that tracks joins and leaves in real time with timestamps and user details
-<br>
-- (Also has right-click functionality with [UserVoiceShow](https://vencord.dev/plugins/UserVoiceShow) and [FollowUser](https://github.com/D3SOX/vc-followUser) for quick access to actions)
 
 <br>
 
