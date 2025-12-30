@@ -10,11 +10,15 @@ A curated collection of **custom Vencord plugins** not yet in the official repos
 
 ---
 
+<br>
+
 ## 🔌 Plugins
 
 | Plugin | Description | Status |
 |--------|-------------|--------|
 | 🔊 [VoiceChannelLogger](voiceChannelLogger/) | Tracks and logs voice channel activity | Released |
+
+<br>
 
 ---
 
