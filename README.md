@@ -1,9 +1,23 @@
-# Its2Factor's Vencord Plugins
+<div align="center">
 
-These are all my Vencord plugins that are not yet in the official Vencord repository. Some of them have pending PRs. See the plugin repositories for screenshots.
+# ⚡ 2Factor’s Vencord Plugins ⚡
 
-## Plugins
+</div>
 
-*   🔊 **[VoiceChannelLogger](voiceChannelLogger/)**
-    *   A lightweight Vencord plugin that tracks voice channel joins and leaves in real-time with timestamps and user details. Features real-time logging, advanced search and filtering, toast notifications, session duration tracking, and a modern UI with persistent storage.
+<br><br>
 
+<div align="center">
+
+These are my **custom Vencord plugins** that haven’t landed in the official Vencord repository yet.
+
+</div>
+
+<br><br><br>
+
+<div align="center">
+
+🔊 **[VoiceChannelLogger](voiceChannelLogger/)**  
+A lightweight yet powerful Vencord plugin that tracks  
+**voice channel joins and leaves** in real time.
+
+</div>
